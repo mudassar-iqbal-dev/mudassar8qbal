@@ -1,1 +1,7 @@
-# mudassar8qbal
+I am a Senior Java Backend Engineer with 7+ years of experience architecting and delivering scalable, resilient, and high-performance backend systems. My expertise lies in Java, Spring Boot, Microservices, CI/CD automation, and cloud-native engineering, with a proven track record of building enterprise-grade solutions for high-traffic digital platforms.
+
+I have led backend engineering for large-scale products such as the Etisalat Mobile App, serving millions of users across MENA. My work spans designing high-throughput APIs, building event-driven systems with Kafka, implementing secure third-party integrations, and optimizing system performance for reliability, scalability, and zero-downtime deployments.
+
+With hands-on experience across the full software delivery lifecycle—requirements analysis, solution design, development, testing, deployment, monitoring, and production support—I bring strong ownership and deliver consistent, high-quality outcomes. I also mentor engineering teams, conduct code reviews, and help drive a culture of clean architecture and engineering excellence.
+
+I am passionate about solving complex distributed-systems problems, optimizing backend performance, and leveraging DevOps practices including Docker, Kubernetes, GitLab CI/CD, and cloud platforms such as AWS, Azure, and GCP. I enjoy collaborating in agile, cross-functional teams and thrive in environments that value innovation, reliability, and continuous improvement.
